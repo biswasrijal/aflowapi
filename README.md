@@ -1,1 +1,1 @@
-# test
+# access AFLOW database using API
